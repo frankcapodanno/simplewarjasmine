@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-jasmine bdd</actionName>
+            <displayName>jasmine bdd</displayName>
+            <goals>
+                <goal>jasmine:bdd</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-jasmine test</actionName>
+            <displayName>jasmine test</displayName>
+            <goals>
+                <goal>jasmine:test</goal>
+            </goals>
+        </action>
+    </actions>

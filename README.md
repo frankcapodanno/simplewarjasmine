@@ -1,4 +1,4 @@
-#Project
+# Project
 
 This is a simple template to create a JAVA EE 8 Projekt in Maven that use Jasmine-Framework. 
 Is builded on the airhacks JAVA EE template and use Pajara as webserver.
